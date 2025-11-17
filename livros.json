@@ -1,0 +1,20 @@
+[
+  {
+    "titulo": "O Pequeno Príncipe",
+    "lang": "pt",
+    "capa": "livro1/capa.jpg",
+    "base": "livro1/"
+  },
+  {
+    "titulo": "The Little Prince",
+    "lang": "en",
+    "capa": "livro2-en/cover.jpg",
+    "base": "livro2-en/"
+  },
+  {
+    "titulo": "El Principito",
+    "lang": "es",
+    "capa": "livro3-es/cover.png",
+    "base": "livro3-es/"
+  }
+]
