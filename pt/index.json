@@ -1,0 +1,16 @@
+[
+  {
+    "title": "Capítulo 1",
+    "file": "cap1.txt"
+  },
+  {
+    "title": "Capítulo 2",
+    "file": "cap2.txt",
+    "children": [
+      {
+        "title": "O Planeta B-612",
+        "file": "subcap2-1.txt"
+      }
+    ]
+  }
+]
