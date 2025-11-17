@@ -1,0 +1,16 @@
+[
+  {
+    "title": "Chapter 1",
+    "file": "ch1.txt"
+  },
+  {
+    "title": "Chapter 2",
+    "file": "ch2.txt",
+    "children": [
+      {
+        "title": "Planet B-612",
+        "file": "subch2-1.txt"
+      }
+    ]
+  }
+]
