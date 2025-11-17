@@ -1,0 +1,20 @@
+[
+  {
+    "title": "Capítulo 1",
+    "file": "cap1.txt"
+  },
+  {
+    "title": "Capítulo 2",
+    "file": "cap2.txt",
+    "children": [
+      {
+        "title": "Subcapítulo 2.1",
+        "file": "subcap2-1.txt"
+      },
+      {
+        "title": "Subcapítulo 2.2",
+        "file": "subcap2-2.txt"
+      }
+    ]
+  }
+]
